@@ -1,7 +1,7 @@
 {
   "name": "tea-five",
   "version": "1.0.0",
-  "description": "tea five",
+  "description": "tea fivefive",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
